@@ -3,4 +3,4 @@ Simplistic bread and butter helper to read some exchange rates and rescale naive
 
 ... read the source, Luke.
 
-The default branch has the name default :wink:
+**Note**: The name of the default branch is `default`.
