@@ -6,4 +6,4 @@ Experimental
 
 ... read the source, Luke.
 
-**Note**: The name of the default branch is `default`.
+**Note**: The default branch is `default`.
